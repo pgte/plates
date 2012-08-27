@@ -1,0 +1,18 @@
+{
+  "breadcrumb":[
+    {
+      "breadcrumb-element":
+        [
+          {
+            "breadcrumb-name":"HTTP",
+            "breadcrumb-url":"/categories/HTTP"
+          },
+          {
+            "breadcrumb-name":"Client",
+            "breadcrumb-url":"/categories/HTTP--Client"
+          }
+        ]
+    }
+  ],
+  "author":["ABC","DEF"]
+}
