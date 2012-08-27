@@ -466,11 +466,6 @@ vows.describe('merge data into markup').addBatch({
         map.className('category-name').to('breadcrumb-name');
         map.className('category-name').to('breadcrumb-url').as('href');
 
-        // map.className('article-body').to('article-body');
-        // map.className('button-container').to('button-container');
-        // map.where('href').is('/left').use('left-url').as('href');
-        // map.where('href').is('/right').use('right-url').as('href');
-        
         map.className('author').to('author');
 
         return common.createTest('test-39', map);
